@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <inkscape:tag
+       id="Fijar 15" />
+    <inkscape:tag
+       id="Fijar 14" />
+    <inkscape:tag
+       id="Fijar 13" />
+    <inkscape:tag
+       id="Fijar 12" />
+    <inkscape:tag
+       id="Fijar 11" />
+    <inkscape:tag
+       id="Fijar 10" />
+    <inkscape:tag
+       id="Fijar 9" />
+    <inkscape:tag
+       id="Fijar 8" />
+    <inkscape:tag
+       id="Fijar 7" />
+    <inkscape:tag
+       id="Fijar 6" />
+    <inkscape:tag
+       id="Fijar 5" />
+    <inkscape:tag
+       id="Fijar 4" />
+    <inkscape:tag
+       id="Fijar 3" />
+    <inkscape:tag
+       id="Fijar 2" />
+    <inkscape:tag
+       id="Fijar 1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="350"
+     inkscape:cy="628.94977"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3783"
+       transform="translate(-4.5357144)">
+      <g
+         id="g3759">
+        <path
+           style="fill:#00ffff;stroke-width:0.26458332"
+           d="M 34.395976,0.66669981 A 29.104166,25.324405 0 0 0 5.2918157,25.991253 29.104166,25.324405 0 0 0 34.395976,51.315288 29.104166,25.324405 0 0 0 63.500146,25.991253 29.104166,25.324405 0 0 0 34.395976,0.66669981 Z"
+           id="path3715"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(2.6458334)"
+         id="g3755">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3734"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:3;font-family:Pristina;-inkscape-font-specification:Pristina;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;image-rendering:auto"
+           transform="matrix(0.32870406,0,0,0.52547521,374.39283,-283.62783)"><flowRegion
+             id="flowRegion3736"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:3;font-family:Pristina;-inkscape-font-specification:Pristina;fill:#000000"><rect
+               id="rect3738"
+               width="308.57147"
+               height="182.85706"
+               x="-1125.7142"
+               y="516.80542"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333588px;line-height:3;font-family:Pristina;-inkscape-font-specification:Pristina;fill:#000000" /></flowRegion><flowPara
+             id="flowPara3740">GAAM</flowPara></flowRoot>      </g>
+    </g>
+  </g>
+</svg>
